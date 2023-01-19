@@ -3,7 +3,7 @@ import numpy as np
 import pytest
 
 
-class PuzTest:
+class Test_Puz:
 
 
     def test1(self):

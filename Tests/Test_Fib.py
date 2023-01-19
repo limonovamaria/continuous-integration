@@ -3,7 +3,7 @@ import numpy as np
 import pytest
 
 
-class FibTest:
+class Test_Fib:
 
 
     def test1(self):

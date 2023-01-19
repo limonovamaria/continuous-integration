@@ -3,7 +3,7 @@ import numpy as np
 import pytest
 
 
-class CalcTest:
+class Test_Calc:
 
 
     def test1(self):
