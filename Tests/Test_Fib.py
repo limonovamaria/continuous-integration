@@ -1,4 +1,4 @@
-from src import MyLibrary as ml
+from src import library as ml
 import numpy as np
 import pytest
 
